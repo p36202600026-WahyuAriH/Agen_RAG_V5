@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+chroma/*
+!chroma/.gitkeep
+data/*
+!data/.gitkeep
+*.log
